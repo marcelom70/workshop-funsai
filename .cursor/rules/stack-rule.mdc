@@ -1,0 +1,12 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+# Stack técnica
+
+- Python para o backend
+- HTML/JS para o frontend
+- Bancos de dados SQL, nunca armazenamento de arquivos JSON
+- Bancos de dados separados para dv, test e prod
+- Testes Python.
